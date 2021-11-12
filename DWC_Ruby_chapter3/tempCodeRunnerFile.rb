@@ -1,0 +1,1 @@
+ング学習'.include?('WEBCAMP')
